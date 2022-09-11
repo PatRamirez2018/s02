@@ -1,0 +1,42 @@
+[
+    {
+        "_id" : "6318bd04669656de1221e934",
+        "name" : "System integration",
+        "description" : "Learning about websites",
+        "price" : 8000,
+        "slots" : 50,
+        "schedule" : "8:00 - 11:00",
+        "instructor" : "James Villamor",
+        "isActive" : true,
+        "enrollees" : [ 
+            {
+                "enrollee_id" : 1,
+                "userId" : "6318b8b4669656de1221e8b4",
+                "userName" : "1",
+                "isPaid" : true,
+                "dateEnrolled" : "7-28-2022"
+            }
+        ]
+    },
+
+
+    {
+        "_id" : "6318bebe669656de1221e994",
+        "name" : "html and css",
+        "description" : "Website Creation",
+        "price" : 10000,
+        "slots" : 50,
+        "schedule" : "13:00 - 15:00",
+        "instructor" : "Arthur Neri",
+        "isActive" : true,
+        "enrollees" : [ 
+            {
+                "enrollee_id" : 2,
+                "userId" : "6318b948669656de1221e8d0",
+                "userName" : "2",
+                "isPaid" : true,
+                "dateEnrolled" : "8-3-2022"
+            }
+        ]
+    }
+]

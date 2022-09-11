@@ -1,0 +1,42 @@
+[
+    {
+        "_id" : "6318b8b4669656de1221e8b4",
+        "username" : "1",
+        "firstName" : "Patrick",
+        "lastName" : "Ramirez",
+        "email" : "ramirez1920743@mkt.ceu.edu.ph",
+        "password" : "onlyone",
+        "mobileNumber" : "09453046415",
+        "isAdmin" : false,
+        "enrollments" : [ 
+            {
+                "enrollment_id" : "1",
+                "course_id" : "1",
+                "courseName" : "System integration",
+                "isPaid" : true,
+                "dateEnrolled" : "7-28-2022"
+            }
+        ]
+    },
+
+
+    {
+        "_id" : "6318b948669656de1221e8d0",
+        "username" : "2",
+        "firstName" : "Kid",
+        "lastName" : "Rodney",
+        "email" : "kidrodney@gmail.com",
+        "password" : "secondonly",
+        "mobileNumber" : "09995613962",
+        "isAdmin" : false,
+        "enrollments" : [ 
+            {
+                "enrollment_id" : "2",
+                "course_id" : "2",
+                "courseName" : "html and css",
+                "isPaid" : true,
+                "dateEnrolled" : "8-3-2022"
+            }
+        ]
+    }
+]
